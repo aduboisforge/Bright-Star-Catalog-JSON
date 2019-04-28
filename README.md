@@ -19,7 +19,7 @@ This dataset is based on version 5 of this catalog.  There are 9110 entries tota
 
 ### Info Not Included
 
-The information on Notes and not reference number were not included here.  The Radial Velocity values were also not included, but are in the catalog.
+The information on Notes, reference numbers to notes, and Radial Velocity were not included here.  
 
 ### Title HD #
 
