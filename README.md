@@ -15,7 +15,7 @@ This dataset is based on version 5 of this catalog.  There are 9110 entries tota
 - Epoch (which is always 2000)
 - Right Ascension PM
 - Declination PM
-- Title HD # ('name' used to refer to stars, some of these were changed because they were invalid values)
+- Title HD # ('name' used to refer to stars, some of these were changed because they were invalid values, so don't trust these values to be completely accurate)
 
 ### Info Not Included
 
