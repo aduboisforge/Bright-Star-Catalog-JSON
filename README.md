@@ -15,15 +15,15 @@ This dataset is based on version 5 of this catalog.  There are 9110 entries tota
 - Epoch (which is always 2000)
 - Right Ascension PM
 - Declination PM
-- Title HD # ('name' used to refer to stars)
+- Title HD # 
 
 ### Info Not Included
 
-The information on Notes and not reference number were not included here.  The R-Velocity values were also not included, but are in the catalog.
+The information on Notes and not reference number were not included here.  The Radial Velocity values were also not included, but are in the catalog.
 
-### Where are the star names?
+### Title HD #
 
-Not every star that we can see actually has a name.  Only about 1000 have names like Polaris, out of the 9110 stars that we can see (as least from what I've read) so Title HD Number is a system used by astronomers to refer to stars instead.  Some of these Title HD # values were changed to make formatting the JSON data easier (so don't trust the  Title HD # entries to be completely accurate, but the Right Ascension and Declination values are accurate, and can be used for calculations).
+Some of these values were changed (i.e. by removing a space) to make formatting the JSON object easier, so these values are not completely accurate, but the Right Ascension and Declination values are accurate and can be used for calculations.
 
 ### License
 
