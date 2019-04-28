@@ -21,7 +21,7 @@ This dataset is based on version 5 of this catalog.  There are 9110 entries tota
 
 The information on notes, reference numbers to notes, and Radial Velocity were not included here.  
 
-### Title HD #
+### 'Title HD #'
 
 Some of these values were changed (i.e. by removing a space) to make formatting the JSON object easier, so these values are not completely accurate, but the Right Ascension and Declination values are accurate and can be used for calculations.
 
