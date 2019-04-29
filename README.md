@@ -37,4 +37,4 @@ Some of these values were changed (i.e. by removing a space) to make formatting 
 
 ### License
 
-You are free to use this JSON file however you wish free of charge.
+Use this JSON file however you wish free of charge.
