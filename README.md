@@ -5,7 +5,7 @@ The Yale Bright Start Catalog is a catalog of all stars with a stellar magnitude
 [Visit the Yale Bright Star Catalog](http://tdc-www.harvard.edu/catalogs/bsc5.html)
 
 
-This dataset is based on version 5 of this catalog.  There are 9110 entries total in this catalog.  However, the data was cleaned of entries with invalid values or stars with missing data that may cause errors in a program, such as  '00:00:00???'.   That leaves the grand total of stars listed in this JSON file as 9096 stars (because 14 stars total had missing or invalid values). 
+This dataset is based on version 5 of this catalog.  There are 9110 entries total in this catalog.  However, the data was cleaned of entries with invalid values or stars with missing data that may cause errors in a program, such as  '00:00:00???'.   That leaves the grand total of stars listed in this JSON file as 9096 stars (14 stars total had invalid values, because those 14 are not single stars, but star clusters, which just look like a single star to our human eyes).
 
 ## Data included in JSON object
 
